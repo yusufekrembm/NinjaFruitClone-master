@@ -1,6 +1,8 @@
 # 8-NinjaFruitClone-master
-Android Projects Games
 
+Android Projects Udemy Course 
+ 
+ - This project was made by cloning from the udemy java kotlin course.
 
 - Fruit Ninja Clone 
 - You can win score by cutting fruits
